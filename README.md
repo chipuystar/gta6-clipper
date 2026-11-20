@@ -1,6 +1,10 @@
 # GTA 6 Chase — make.fun clipper entry
 
-Entry for the make.fun bounty **gta6-clipper-01** ("Clip GTA 6 for the most
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/chipuystar/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/chipuystar/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Entry for the [make.fun bounty **gta6-clipper-01**](https://make.fun/bounty/gta6-clipper-01) ("Clip GTA 6 for the most
 YouTube views"). A 15-second vertical Short cut from Rockstar's own Grand
 Theft Auto VI footage, with make.fun's pitch on screen at the end.
 
